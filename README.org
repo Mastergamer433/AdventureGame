@@ -1,0 +1,10 @@
+* Player
+** Inventory
+The inventory is just a to dimensional array of integers where ttems have an unique id, an integer, an stack amount.
+
+*** All items you can have
+| Item     | ID | Stack |
+|----------+----+-------|
+| Metal    |  1 |   128 |
+| Tree     |  2 |   128 |
+| Obsidian |  3 |   128 |
